@@ -79,7 +79,7 @@
     "frequency_watering": 2,
     "soil_type": "Well-drained",
     "minerals_required": ["Phosphorus", "Potassium"],
-    "planting_season": "Spring,
+    "planting_season": "Spring",
 "growing_time": 75,
 "toxicity": false
 },
@@ -179,7 +179,7 @@
     "growing_time": 60,
     "toxicity": false
   },
-F016": {
+"F016": {
         "plant_name": "Sweet Pea",
         "latin_name": "Lathyrus odoratus",
         "class_name": "Flower",
@@ -1062,7 +1062,7 @@ F016": {
     "light_conditions": "Full sun to partial shade",
     "frequency_watering": 7,
     "soil_type": "Well-drained soil",
-    "minerals_required": [“Nitrogen”, "Phosphorus", "Potassium"],
+    "minerals_required": [ "Nitrogen", "Phosphorus", "Potassium"],
     "planting_season": "Spring or Autumn",
     "growing_time": 365,
     "toxicity": "Non-toxic"
@@ -1210,7 +1210,6 @@ F016": {
         "growing_time": 365,
         "toxicity": "Toxic to dogs"
 	},
-	{
 	"FR027": {
         "plant_name": "Peach",
         "latin_name": "Prunus persica",
@@ -1224,8 +1223,3 @@ F016": {
         "toxicity": "Toxic to dogs"
 	}
 } 
-
-
-
-
-
